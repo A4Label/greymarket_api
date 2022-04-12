@@ -11,6 +11,8 @@ https://greymarket.app/admin/
 api test:
 https://greymarket.app/api/test
 
+# API
+
 ## Device login
 Each device needs to have a separate login account. The login account can be added in "admin".
 ### `Post https://greymarket.app/api/login`
